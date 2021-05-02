@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, PyTorch
 - 🌱 I’m currently learning PyTorch
 - 💞️ I’m looking to collaborate on Python related Open Source Projects.
-- 📫 Reach me via tejanmehndiratta15@gmail.com
+- 📫 Reach me via tejan.mehndiratta@iiitb.ac.in
 
 <!---
 tejan-rgb/tejan-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
