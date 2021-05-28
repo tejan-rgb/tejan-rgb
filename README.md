@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejan-rgb
 - 👀 I’m interested in Python, PyTorch
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Python related Open Source Projects.
 - 📫 Reach me via tejan.mehndiratta@iiitb.ac.in
 
